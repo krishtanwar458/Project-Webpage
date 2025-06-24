@@ -1,4 +1,4 @@
-import streamlit as st #python3 -m streamlit run main.py
+import streamlit as st #python3 -m streamlit run Home.py
 import pandas as pd
 
 st.set_page_config(layout='wide')
